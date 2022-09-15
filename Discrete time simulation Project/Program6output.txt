@@ -1,0 +1,91 @@
+================================================
+
+Results for First In First Out (FIFO) queue Simulation.
+
+Summary:
+
+Administrators:
+94 jobs handled.
+Maximum wait ............. 226 minutes.
+Total waiting time ....... 8612 minutes.
+Average waiting time ..... 91.617 minutes.
+
+Faculty:
+56 jobs handled.
+Maximum wait ............. 229 minutes.
+Total waiting time ....... 6108 minutes.
+Average waiting time ..... 109.071 minutes.
+
+Students:
+43 jobs handled.
+Maximum wait ............. 222 minutes.
+Total waiting time ....... 3544 minutes.
+Average waiting time ..... 82.4186 minutes.
+
+Overall Totals:
+193 jobs handled.
+Total waiting time ....... 18264 minutes.
+Average waiting time ..... 94.6321 minutes.
+
+
+================================================
+
+Results for Shortest Job First (SJF) queue Simulation.
+
+Summary:
+
+Administrators:
+94 jobs handled.
+Maximum wait ............. 346 minutes.
+Total waiting time ....... 7921 minutes.
+Average waiting time ..... 84.266 minutes.
+
+Faculty:
+56 jobs handled.
+Maximum wait ............. 322 minutes.
+Total waiting time ....... 4647 minutes.
+Average waiting time ..... 82.9821 minutes.
+
+Students:
+43 jobs handled.
+Maximum wait ............. 362 minutes.
+Total waiting time ....... 4025 minutes.
+Average waiting time ..... 93.6047 minutes.
+
+Overall Totals:
+193 jobs handled.
+Total waiting time ....... 16593 minutes.
+Average waiting time ..... 85.9741 minutes.
+
+
+================================================
+
+Results for Multi-level queue Simulation.
+
+Summary:
+
+Administrators:
+94 jobs handled.
+Maximum wait ............. 34 minutes.
+Total waiting time ....... 1089 minutes.
+Average waiting time ..... 11.5851 minutes.
+
+Faculty:
+56 jobs handled.
+Maximum wait ............. 224 minutes.
+Total waiting time ....... 7436 minutes.
+Average waiting time ..... 132.786 minutes.
+
+Students:
+43 jobs handled.
+Maximum wait ............. 387 minutes.
+Total waiting time ....... 9727 minutes.
+Average waiting time ..... 226.209 minutes.
+
+Overall Totals:
+193 jobs handled.
+Total waiting time ....... 18252 minutes.
+Average waiting time ..... 94.5699 minutes.
+
+
+================================================
